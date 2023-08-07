@@ -103,7 +103,7 @@
 
 main{
   width: 98%;
-  /* border: 1px solid red; */
+  border: 1px solid red;
   margin: auto;
   margin-top: 3%;
 }
@@ -115,7 +115,7 @@ main .who-we-are h1{
 
 main .who-we-are p{
   text-align: justify;
-  /* border: 1px solid red; */
+  border: 1px solid red;
 }
 
 main .who-we-are p a{
@@ -128,7 +128,7 @@ main .who-we-are p a:hover{
 }
 
 main .rectangle{
-  /* border: 1px solid black; */
+  border: 1px solid black;
   padding-left: 30%;
   
 }
