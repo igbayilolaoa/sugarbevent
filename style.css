@@ -100,4 +100,41 @@
   margin-top: 3%;
 }
 
+main{
+  width: 98%;
+  /* border: 1px solid red; */
+  margin: auto;
+  margin-top: 3%;
+}
+
+main .who-we-are h1{
+  margin-top: 2%;
+  margin-left: 40%;
+}
+
+main .who-we-are p{
+  text-align: justify;
+  /* border: 1px solid red; */
+}
+
+main .who-we-are p a{
+  text-decoration: none;
+  color: #76174D;
+}
+
+main .who-we-are p a:hover{
+   color: #F36DB8
+}
+
+main .rectangle{
+  border: 1px solid black;
+  margin-left: 30%;
+  
+}
+
+main .services{
+  background: var(--our-services-background, linear-gradient(270deg, #33031E 0%, #F36DB8 100%));
+}
+
+
 }
