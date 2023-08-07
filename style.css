@@ -127,7 +127,7 @@ main .who-we-are p a:hover{
 }
 
 main .rectangle{
-  border: 1px solid black;
+  /* border: 1px solid black; */
   margin-left: 30%;
   
 }
