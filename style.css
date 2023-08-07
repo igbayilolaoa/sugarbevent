@@ -49,6 +49,7 @@
   .hero button{
     border-radius: 5px;
     width:120px;
+    margin-top: 1.5%;
     background-color:  #F36DB8;
   }
   
@@ -128,7 +129,7 @@ main .who-we-are p a:hover{
 
 main .rectangle{
   /* border: 1px solid black; */
-  margin-left: 30%;
+  padding-left: 30%;
   
 }
 
